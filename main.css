@@ -30,6 +30,7 @@ img {
     padding-top: 10px;
     height: 100px;
     width: 100px;
+    box-shadow: rgba(61, 105, 16, 0.5);
 }
 
 .div1 {
@@ -39,7 +40,7 @@ img {
     padding-left: 20px;
     width: 350px;
     height: 275px;
-    border: 2px solid black;
+    border-radius: 0 50px 0 0;
     background-color: white;
     margin-top: 20px;
 }
